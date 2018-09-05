@@ -1,0 +1,11 @@
+F:\BackEndProject\ShardingPoC\ShardingPoC\bin\Debug\netcoreapp2.0\ShardingPoC.deps.json
+F:\BackEndProject\ShardingPoC\ShardingPoC\bin\Debug\netcoreapp2.0\ShardingPoC.runtimeconfig.json
+F:\BackEndProject\ShardingPoC\ShardingPoC\bin\Debug\netcoreapp2.0\ShardingPoC.runtimeconfig.dev.json
+F:\BackEndProject\ShardingPoC\ShardingPoC\bin\Debug\netcoreapp2.0\ShardingPoC.dll
+F:\BackEndProject\ShardingPoC\ShardingPoC\bin\Debug\netcoreapp2.0\ShardingPoC.pdb
+F:\BackEndProject\ShardingPoC\ShardingPoC\obj\Debug\netcoreapp2.0\ShardingPoC.csprojAssemblyReference.cache
+F:\BackEndProject\ShardingPoC\ShardingPoC\obj\Debug\netcoreapp2.0\ShardingPoC.csproj.CoreCompileInputs.cache
+F:\BackEndProject\ShardingPoC\ShardingPoC\obj\Debug\netcoreapp2.0\ShardingPoC.AssemblyInfoInputs.cache
+F:\BackEndProject\ShardingPoC\ShardingPoC\obj\Debug\netcoreapp2.0\ShardingPoC.AssemblyInfo.cs
+F:\BackEndProject\ShardingPoC\ShardingPoC\obj\Debug\netcoreapp2.0\ShardingPoC.dll
+F:\BackEndProject\ShardingPoC\ShardingPoC\obj\Debug\netcoreapp2.0\ShardingPoC.pdb
